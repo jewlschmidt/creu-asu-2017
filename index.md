@@ -1,3 +1,5 @@
+#CREU ASU 2017
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jewlschmidt/creu-asu-2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
