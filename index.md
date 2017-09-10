@@ -1,4 +1,8 @@
-#CREU ASU 2017
+# CREU ASU 2017
+### Representing Linked Data
+### Blog: Julia Schmidt
+
+## Post 1: Sept 3. 2017 - Sept 9, 2017
 
 ## Welcome to GitHub Pages
 
