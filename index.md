@@ -1,7 +1,7 @@
 ## Sept 17, 2017 - Sept 23, 2017
 This week, I focused on reading through research on ontology creation. For the sake of brevity, I'll only summarize two here:
 
-# Clinga: Bringing Chinese Physical and Human Geography in Linked Open Data
+### Clinga: Bringing Chinese Physical and Human Geography in Linked Open Data
 Before this project was completed, there was a severe lack of geographical data based on Chinese names. Only 37% of China-based geographical features were referenced by Chinese names. Clinga was developed in order to better identify Chinese geographical features, their relations, and their Chinese names.
 
 In order to create ontologies, Clinga used data gained from Baidu Baike. This database was chosen for the depth and breadth of information, but inconsistencies in its infrastructure and linking required a great effort when crawling for data.
