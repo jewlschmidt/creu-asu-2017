@@ -1,3 +1,21 @@
+## Oct 2, 2017 - Oct 9, 2017
+This week, I spent the majority of my time at the Grace Hopper Celebration of Women in Computing. While I was there, I had the opportunity to look at the research others were presenting in order to get an idea of what our team should be looking to complete for conferences next fall. I also reviewed papers and tutorials from the rest of the project in order to refresh my memory. During this review, I looked for different ways that our team could define sustainability. An important step will be to give ourselves a defined scope in order to avoid attempting to go too deep or do too much with the time & labor resources that we have. In addition to the focus areas defined in last week's post, beginning with a list of perimeters for our database will prevent excessive information gathering and redundant or irrelevant work. Next week's tasks will include defining some of these perimeters and brainstorming specific areas of sustainability that must be included in the project.
+
+## Sept 24, 2017 - Oct 2, 2017
+I continued reading papers discussing ontology creation and use this week, including <i>Building Urban LOD for Solving Illegally Parked Bicycles in Tokyo</i>, <i>Linked Data Analytics in Interdisciplinary Studies: The Health Impact of Air Pollution in Open Areas</i>, and <i>A Physician Advisory System for Chronic Heart Failure Management Based on Knowledge Patterns</i>. The last paper revolved around ASP, an acronym with which I was not immediately familiar. Once I refreshed my knowledge of the framework, it became easier for me to process the paper. Based on these papers and our team discussion on Monday, I began to put together some general areas of 'sustainability' that it might be beneficial to focus on during the project.
+
+### Focus Areas in Sustainability Ratings
+When selecting focus areas, I felt that there were some key factors that should be considered in order to maximize functionality and applicability.
+
+#### Relevancy
+The first factor was relevancy, or whether or not the data would actually be used in a public app or website. This is important because the large amount of available data can not be feasibly connected or represented using our current resources. Cutting out data that will not be often used by our target client base will allow the team to focus on creating quality references and a usable interface.
+
+#### Potential for Effect
+Another important factor to consider is the data's potential to affect the neighborhood in the long-term. It will be important to include data that has direct consequences on the sustainability of a neighborhood, even if it might not be specifically looked for.
+
+#### Audience
+A final important factor that must be taken into effect is the viewer of the end product. Data such as school quality and social opportunities may not be directly related to 'sustainability', but site users looking for information on living in a given area will likely be interested in this data.
+
 ## Sept 17, 2017 - Sept 23, 2017
 This week, I focused on reading through research on ontology creation, including <i>Clinga: Bringing Chinese Physical and Human Geography in Linked Open Data</i>, <i>FOOD: FOod in Open Data</i>, and <i>An Ontology of Soil Properties and Processes</i>. For the sake of brevity, I'll only summarize one here. I also reviewed various tutorials on important technologies and literature from the last two weeks.
 
