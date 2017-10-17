@@ -1,12 +1,12 @@
 ## Oct 10, 2017 - Oct 17, 2017
 This week, I tried to find research articles that would provide more guidance, structure, and reputability to the focus areas defined two weeks ago. Two papers, <i>The Difficulty in Defining Sustainability</i> (M.A. Toman, 1992) and <i>Defining Sustainability: A Conceptual Orientation</i> (R.O. Vos, 2007), really stood out to me because they broke down the many definitions of sustainability into concrete parts.
 
-#### Core Definitions
+### Core Definitions
 Both papers provided a core idea of sustainability that seems to be present no matter the other factors taken into account. Toman defines the core of sustainable development as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs" (3), while Vos lists a few important elements that must be addressed in any definition: economy, environment, and society. Vos also notes that sustainability separates itself from other ways of looking at these elements by emphasizing intergenerational equity and going above and beyond mere compliance with laws and regulations.
 
 It will be important for our team to take these core ideas when creating a definition of 'sustainable' for our end project.
 
-#### 'Thin' and 'Weak' vs. 'Thick' and 'Strong'
+### 'Thin' and 'Weak' vs. 'Thick' and 'Strong'
 Based on these papers and other research done this week, sustainability has been split into two types of thought: 'Thin' or 'Weak' sustainability, which prioritizes the relative well-being of people in society, and 'Thick' or 'Strong' sustainability, which prioritizes maintaining the environment over all else. While some would argue that these are the same, the line between the two is something that really interested me.
 
 Vos posits that "in terms of the ontology of nature, the difference in thickness for definitions of sustainability is how much of nature is valued intrinsically". Basically, thin sustainability seeks to ensure that the overall capital value present in society- natural, financial, technological, etc- must remain undiminished for future generations, even if the balance of these resources changes. Thick sustainability views any diminution in the value of natural capital as a negative, even if it results in growth of other areas.
