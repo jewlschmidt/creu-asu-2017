@@ -1,3 +1,18 @@
+## Oct 10, 2017 - Oct 17, 2017
+This week, I tried to find research articles that would provide more guidance, structure, and reputability to the focus areas defined two weeks ago. Two papers, <i>The Difficulty in Defining Sustainability</i> (M.A. Toman, 1992) and <i>Defining Sustainability: A Conceptual Orientation</i> (R.O. Vos, 2007), really stood out to me because they broke down the many definitions of sustainability into concrete parts.
+
+#### Core Definitions
+Both papers provided a core idea of sustainability that seems to be present no matter the other factors taken into account. Toman defines the core of sustainable development as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs" (3), while Vos lists a few important elements that must be addressed in any definition: economy, environment, and society. Vos also notes that sustainability separates itself from other ways of looking at these elements by emphasizing intergenerational equity and going above and beyond mere compliance with laws and regulations.
+
+It will be important for our team to take these core ideas when creating a definition of 'sustainable' for our end project.
+
+#### 'Thin' and 'Weak' vs. 'Thick' and 'Strong'
+Based on these papers and other research done this week, sustainability has been split into two types of thought: 'Thin' or 'Weak' sustainability, which prioritizes the relative well-being of people in society, and 'Thick' or 'Strong' sustainability, which prioritizes maintaining the environment over all else. While some would argue that these are the same, the line between the two is something that really interested me.
+
+Vos posits that "in terms of the ontology of nature, the difference in thickness for definitions of sustainability is how much of nature is valued intrinsically". Basically, thin sustainability seeks to ensure that the overall capital value present in society- natural, financial, technological, etc- must remain undiminished for future generations, even if the balance of these resources changes. Thick sustainability views any diminution in the value of natural capital as a negative, even if it results in growth of other areas.
+
+For the purposes of our project, it seems that the thinness or thickness of our definition will differ based on the audience. Families looking to buy homes will look for stability; corporations will look for growth in financial areas; environmentalists will look for growth in nature. Perhaps we could implement separate sustainability ratings in order to appeal to a wider audience.
+
 ## Oct 2, 2017 - Oct 9, 2017
 This week, I spent the majority of my time at the Grace Hopper Celebration of Women in Computing. While I was there, I had the opportunity to look at the research others were presenting in order to get an idea of what our team should be looking to complete for conferences next fall. I also reviewed papers and tutorials from the rest of the project in order to refresh my memory. During this review, I looked for different ways that our team could define sustainability. An important step will be to give ourselves a defined scope in order to avoid attempting to go too deep or do too much with the time & labor resources that we have. In addition to the focus areas defined in last week's post, beginning with a list of perimeters for our database will prevent excessive information gathering and redundant or irrelevant work. Next week's tasks will include defining some of these perimeters and brainstorming specific areas of sustainability that must be included in the project.
 
