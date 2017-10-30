@@ -1,3 +1,10 @@
+## Oct 18, 2017 - Oct 25, 2017
+This week, I continued to focus on creating a definition of sustainability that would give our application the greatest amount of relevancy in day-to-day use across the widest audience. As a team, we decided that we would pursue a thin version of sustainability so that we could address environmental concerns alongside financial and societal ones.
+
+In order for thin sustainability to remain sustainable, a safe minimum standard must be established in order to prevent the tradeoff between different capitals does not result in an irreversible loss. Bryan Norton theorized that a safe minimum standard exists that separates low-cost but irreversible tradeoffs from high-cost but reversible tradeoffs. This standard would provide a bit more nuance to the idea of what are and are not acceptable losses.
+
+If we are to develop a standard index that defines the relative sustainability of an area, it would make sense to have a relative idea of what defines an acceptable or unacceptable rating. This safe minimum standard could help us define a baseline.
+
 ## Oct 10, 2017 - Oct 17, 2017
 This week, I tried to find research articles that would provide more guidance, structure, and reputability to the focus areas defined two weeks ago. Two papers, <i>The Difficulty in Defining Sustainability</i> (M.A. Toman, 1992) and <i>Defining Sustainability: A Conceptual Orientation</i> (R.O. Vos, 2007), really stood out to me because they broke down the many definitions of sustainability into concrete parts.
 
