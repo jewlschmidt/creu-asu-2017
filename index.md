@@ -1,3 +1,18 @@
+## Nov 20, 2017 - Nov 26, 2017
+
+
+## Nov 13, 2017 - Nov 19, 2017
+I've spent about five hours this week continuing to look for alternate databases with API keys to replace some of the sets we've already found that would require manual updates. I have unfortunately not had much luck, but Vatricia is working on a webcrawler that will hopefully be able to fill in some knowledge gaps.
+
+Because we are nearing the completion of our ontology, I think it would be beneficial to put together some ideas for the other half of the project (creating a web/mobile application to display data). I spent the other five hours of my CREU-dedicated time looking through tutorials that will hopefully provide a foundation for web/mobile development, as I have not completed any courses in that area. I was able to gain free access to a Udemy course on Javascript aimed at people with some sort of background in development, and I will try to complete it by the end of winter break.
+
+## Nov 6, 2017 - Nov 12, 2017
+This week, I worked on locating the datasets that will inform the calculated sustainability rating. The main problem that we will need to deal with is preventing data from becoming outdated. Many datasets are not maintained in a form conducive to frequent updates, and require that data be downloaded in .csv format or something similar. While we can make this work, it will mandate redownloading and processing the data every time an update is published.
+
+So far, I have had some success with data.gov, which is essentially a catalog of federal, state, and local datasets. While there is a wealth of information available, much of it is suspect to the problems outlined above and may not fully serve our purposes. Much of the information on population, demographics, income, and related statistics will come from the U.S. Census and the related American Community Survey. These reports also provide information on facilities and resources in various regions.
+
+We still have not settled on a way to normalize data in a meaningful and consistent way, but we hope to find a viable solution by the end of the year.
+
 ## Oct 29, 2017 - Nov 5, 2017
 Our team met this week to go through possible factors and indicators that could help to create our ontology. We decided that the best way to go about creating a single, all-encompassing index was to split data into three sub-indexes: Social, Economic, and Ecological. These sub-indexes are made up of indicators, which create scores from factors containing datasets. Indicators include concepts like health, the amount of green space in a neighborhood, or the number of entertainment values in an area. We also spent time searching for datasets that would support each factor- for example, CDC datasets indicating suicide life expectancy rates in different areas.
 
