@@ -1,5 +1,17 @@
-## Nov 20, 2017 - Nov 26, 2017
+## Nov 27, 2017 - Dec 10, 2017 (2-week period)
+I've combined these two weeks because I haven't been able to get much done due to studying for and taking finals. I plan to make up the lost time over break.
 
+I've continued to work through the JavaScript tutorial - no issues there as of yet - and look for more Java/OWL information (not just tutorials). I've only found [The OWL API](http://www.semantic-web-journal.net/content/owl-api-java-api-owl-ontologies) so far, but I will continue looking over break and hopefully start to make headway into one of the tutorials.
+
+## Nov 20, 2017 - Nov 26, 2017
+This week, I've been trying to find tutorials bringing OWL and Java together so that we can start the application itself, but information in tutorial form has been surprisingly difficult to find. So far, I've found and skimmed through the following:
+
+[The rough guide to the OWL API](http://owlapi.sourceforge.net/owled2011_tutorial.pdf?forcedefault=true)
+[Jena](https://jena.apache.org/documentation/ontology/)
+
+I'm not entirely sure how we are actually going to be applying either of these, so I will continue to look for more resources so the project is supported no matter the route we take.
+
+I've also spent a few hours working through the JavaScript tutorial that I mentioned previously. There's nothing really interesting to note there, as it's mostly just basic material so far.
 
 ## Nov 13, 2017 - Nov 19, 2017
 I've spent about five hours this week continuing to look for alternate databases with API keys to replace some of the sets we've already found that would require manual updates. I have unfortunately not had much luck, but Vatricia is working on a webcrawler that will hopefully be able to fill in some knowledge gaps.
