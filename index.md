@@ -1,3 +1,6 @@
+## Dec 11, 2017 - Jan 7, 2017
+Per the post on the CREU Piazza board, I did not complete any work over break. The semester starts this week, so I plan to pick up where I left off with JavaScript and application planning.
+
 ## Nov 27, 2017 - Dec 10, 2017 (2-week period)
 I've combined these two weeks because I haven't been able to get much done due to studying for and taking finals. I plan to make up the lost time over break.
 
