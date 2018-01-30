@@ -1,5 +1,20 @@
+## Jan 22, 2017 - Jan 28, 2017
+We met as a group this week to discuss how we want to move ahead. During our meeting, we were able to complete mockups of the UI for both the web and mobile versions that the entire group was happy and comfortable with. Having these mockups will help us structure the backend of our program to best make the transition between the ontology and the display.
+
+We also discussed various conferences that we could apply to in order to share our work once it is complete. In the coming weeks, I will work on getting a paper draft put together that summarizes our research and progress up to this point.
+
+At the suggestion of Dr. Bansal, I looked further into Apache Jena and hope that we will be able to use it as a method of connecting our ontology to a Java backend. This is something that I am excited about working on, because it is something I have little experience with & a lot of interest in.
+
+## Jan 15, 2017 - Jan 21, 2017
+I finished the JavaScript tutorial that I was working through but still feel like there are gaps in my knowledge, similar to how I felt when I finished AP Computer Science. I understand syntax and overarching concepts, but really have no idea how to apply them in a meaningful way. I will continue to look for resources and potentially build something so that I can identify and rectify gaps sooner rather than later.
+
+## Jan 8, 2017 - Jan 14, 2017
+This week, I continued to work through JavaScript tutorials and kept looking for ways to integrate our ontology with the application we will eventually create. At this point, it seems to make sense to develop both a mobile and web application so that we can reach the widest audience possible.
+
+I'm still struggling with exactly how we are going to extract and use the data we have found. The variety in format, completeness, and scale of data seems to mandate a manual approach for most U.S. cities, which seems prohibitive (especially when combined with possible webcrawler data). It is clearly something that merits more research.
+
 ## Dec 11, 2017 - Jan 7, 2017
-Per the post on the CREU Piazza board, I did not complete any work over break. The semester starts this week, so I plan to pick up where I left off with JavaScript and application planning.
+Per the post on the CREU Piazza board, I did not complete any work over break (except for making up for lost work over finals; it mostly consisted of working through tutorials). The semester starts this week, so I plan to pick up where I left off with JavaScript and application planning.
 
 ## Nov 27, 2017 - Dec 10, 2017 (2-week period)
 I've combined these two weeks because I haven't been able to get much done due to studying for and taking finals. I plan to make up the lost time over break.
