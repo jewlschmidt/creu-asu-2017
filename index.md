@@ -1,3 +1,21 @@
+## Feb 12, 2017 - Feb 18, 2017
+This week, I was able to get what feels like a pretty strong knowledge base regarding Jena and Fuseki after our group met. I was able to get our current version of the ontology uploaded to the Fuseki server and queriable via SPARQL. I am optimistic that by the end of Spring Break, I will be able to complete a semi-functional backend for the project.
+
+In addition, I continued retaking notes on our research so that I can eventually condense them into a literature review for our paper.
+
+## Feb 5, 2017 - Feb 11, 2017
+Dr. Bansal provided us with resources on Apache Jena and Fuseki Server that were really helpful in clearing up my confusion from last week, and I have spent the majority of my time working through those. I am having some issues getting Jena working with Eclipse and with running Fuseki, but I am pretty sure that I have a file named incorrectly and I just have to figure out which one.
+
+UPDATE Feb 11: I had a .jar and a properties incorrectly named. Both are now working.
+
+I also am continuing to work on our paper, but am realizing that all of the research we completed is kind of blurring together. My plan is to go back through the research and condense our notes into a literature review.
+
+## Jan 29, 2017 - Feb 4, 2017
+This week, I am attempting to do independent research into getting Jena set up on my machine, but I am having trouble figuring out where to start. There are a lot of different applications of Jena and the related Fuseki server, but I am not sure which route is the best way to go for our particular project. During our meeting, Dr. Bansal indicated that she might have some additional resources that I hope will clear some things up for me.
+
+As a team, we have all continued to look for data that would contribute to our indexes. So far, the main category that we are having issues with is the Environmental Sustainability section, but we are realizing that we might have to manually search for and enter the data. Although this is outside the scope of our project, a future endeavor might consist of creating a queriable database of environmental data, similar to the U.S. Census.
+
+
 ## Jan 22, 2017 - Jan 28, 2017
 We met as a group this week to discuss how we want to move ahead. During our meeting, we were able to complete mockups of the UI for both the web and mobile versions that the entire group was happy and comfortable with. Having these mockups will help us structure the backend of our program to best make the transition between the ontology and the display.
 
