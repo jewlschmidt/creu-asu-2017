@@ -1,9 +1,30 @@
-## Feb 12, 2017 - Feb 18, 2017
+## March 19, 2017 - March 25, 2017
+We met this past week and figured out which SPARQL queries will be necessary for the functions we have planned for our application. However, we cannot test them or the completed backend without data.
+
+I have been looking for other conferences to apply to without much luck. However, we are preparing to present at ASU's Innovation Showcase at the end of the year to raise awareness of the project and hopefully conduct general usability studies. This feedback would allow us to improve the application in the future.
+
+## March 12, 2018 - March 18, 2018
+The resources that I was able to find helped me fix all of the bugs I had identified as far as I can tell, but it was a large task. At this point, I cannot progress further on the application without having data to fill the ontology.
+
+## March 5, 2018 - March 11, 2018
+I am about 75% finished with a backend framework in Java for our eventual web application. There are a couple of bugs that have taken up an unreasonable amount of time this week, but I was able to locate some resources that I expect to help in the near future.
+
+We were able to finish the GHC paper and get it submitted under Vatricia's name, as she has not attended the conference before and both Cecilia and I have. However, credit will be given to all three of us if she is accepted.
+
+## Feb 26, 2018 - March 4, 2018
+This week has been slow due to midterms, but I plan to make it up over break. However, I did finish the paper outline and look forward to submitting the finished paper before the deadline.
+
+## Feb 19, 2018 - Feb 25, 2018
+I began to modify the resources from a couple of weeks ago to better fit our application. I am running into various problems because I don't have data to put into the ontology, but I expect this to be rectified by the end of Spring Break.
+
+I have finished refreshing my knowledge of the research, and have detailed notes on each of the papers we have used information from. At this point, I am about halfway through an outline of what I hope the paper for the Grace Hopper Conference will specifically look like. In order to give our group the best chance of being accepted to present, I am using past GHC papers as guidelines for what to include.
+
+## Feb 12, 2018 - Feb 18, 2018
 This week, I was able to get what feels like a pretty strong knowledge base regarding Jena and Fuseki after our group met. I was able to get our current version of the ontology uploaded to the Fuseki server and queriable via SPARQL. I am optimistic that by the end of Spring Break, I will be able to complete a semi-functional backend for the project.
 
 In addition, I continued retaking notes on our research so that I can eventually condense them into a literature review for our paper.
 
-## Feb 5, 2017 - Feb 11, 2017
+## Feb 5, 2017 - Feb 11, 2018
 Dr. Bansal provided us with resources on Apache Jena and Fuseki Server that were really helpful in clearing up my confusion from last week, and I have spent the majority of my time working through those. I am having some issues getting Jena working with Eclipse and with running Fuseki, but I am pretty sure that I have a file named incorrectly and I just have to figure out which one.
 
 UPDATE Feb 11: I had a .jar and a properties incorrectly named. Both are now working.
