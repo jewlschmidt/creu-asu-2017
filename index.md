@@ -1,4 +1,12 @@
-## March 19, 2017 - March 25, 2017
+## April 2nd, 2017 - April 8th, 2017
+As noted last week, I have not had a lot of time this week due to familial obligations. However, I have been able to familiarize myself with the mocked data and create a plan for how to integrate it into the application. Next week, I will begin integration and work on our team poster for ASU's Innovation Showcase.
+
+## March 26, 2018 - April 1st, 2017
+We decided to mock the data for now, as there have been barriers to getting everything set. Once this data is prepared, I can start working on it. I have spent some time this week cleaning up the program as it is currently a sort of mashup of examples, tutorials, and my own code. This way, I'll be able to better integrate the data later.
+
+My family is here from Wisconsin and will be here for the majority of next week, so my available time will be less. I look forward to making up the time by sitting down for a dedicated period of time and working on integrating everything together.
+
+## March 19, 2018 - March 25, 2018
 We met this past week and figured out which SPARQL queries will be necessary for the functions we have planned for our application. However, we cannot test them or the completed backend without data.
 
 I have been looking for other conferences to apply to without much luck. However, we are preparing to present at ASU's Innovation Showcase at the end of the year to raise awareness of the project and hopefully conduct general usability studies. This feedback would allow us to improve the application in the future.
