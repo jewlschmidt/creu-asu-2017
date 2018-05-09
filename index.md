@@ -1,7 +1,23 @@
-## April 2nd, 2017 - April 8th, 2017
+## April 30th, 2018 - May 4th, 2018
+We completed our final report this week and I made final attempts to get the backend of the application working. Exams and moving out made it difficult to work on the project for long periods of time.
+
+## April 23rd, 2018 - April 29th, 2018
+This week, all of us focused on getting ready for the Innovation Showcase at ASU and participating in presenting our work thus far. Being able to showcase our work and explain its impact to other people was really fulfilling, and I actually was able to get some more ideas for future work by talking to people in other disciplines. It was great to talk to people about the intersections between software & sustainability, and help people understand the different definitions of sustainability that we had to sort through during our initial research.
+
+We met as a team earlier in the week, and determined that the program is correctly importing the ontology but is having trouble creating a queriable model. I was unable to get it working before the showcase.
+
+## April 16th, 2018 - April 22nd, 2018
+I continued to work on the SPARQL queries this week, and am beginning to get worried that there is a greater problem that I'm not understanding. I have been kind of working off of the assumption (dangerous and bad, I know) that the program would be functional once everything was integrated, and am definitely feeling the time crunch.
+
+## April 9th, 2018 - April 15th, 2018
+We were able to get our poster completed and submitted for the showcase this week, and experienced some challenges with communication. Our documentation has been somewhat lacking during this process, as we move between different iterations and technologies. The division of labor has resulted in each team member having an understanding of a specific part of the project, and we quickly realized that we needed to better communicate about decisions and changes that would affect all of us.
+
+I began integration efforts this week as well, and am running into some issues that I think are stemming from my SPARQL queries. I think it is because of the different structure of the data from the tutorial I have been working with, but I am not sure. I am going to consult with my teammates next week to see if we can figure out what the underlying problem is.
+
+## April 2nd, 2018 - April 8th, 2018
 As noted last week, I have not had a lot of time this week due to familial obligations. However, I have been able to familiarize myself with the mocked data and create a plan for how to integrate it into the application. Next week, I will begin integration and work on our team poster for ASU's Innovation Showcase.
 
-## March 26, 2018 - April 1st, 2017
+## March 26, 2018 - April 1st, 2018
 We decided to mock the data for now, as there have been barriers to getting everything set. Once this data is prepared, I can start working on it. I have spent some time this week cleaning up the program as it is currently a sort of mashup of examples, tutorials, and my own code. This way, I'll be able to better integrate the data later.
 
 My family is here from Wisconsin and will be here for the majority of next week, so my available time will be less. I look forward to making up the time by sitting down for a dedicated period of time and working on integrating everything together.
